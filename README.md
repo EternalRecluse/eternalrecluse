@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  
+  <a href="">![](https://komarev.com/ghpvc/?username=eternalrecluse&color=2d135c&label=♱&base=8970)</a>
 
-<!--
-**EternalRecluse/eternalrecluse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<p align="center"> <img width="700" height="700" src="[https://64.media.tumblr.com/e2d41e3fe7f431f67513203412ce1bc6/ea62c093d532c8b3-bf/s2048x3072/c26d088a600c94520d07e5daf7a1e7fa73276c5b.pnj]" </p>
 
-Here are some ideas to get you started:
+<p align="center">bleh</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+
+
+
+
+
+
