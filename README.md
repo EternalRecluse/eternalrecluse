@@ -1,9 +1,9 @@
 <div align="center">
   
-  <a href="">![](https://komarev.com/ghpvc/?username=eternalrecluse&color=2d135c&label=♱&base=8970)</a>
+  <a href="">![](https://komarev.com/ghpvc/?username=eternalrecluse&color=B8BCF2&label=♱&base=8970)</a>
 
 </div>
-<p align="center"> <img width="700" src="https://64.media.tumblr.com/e2d41e3fe7f431f67513203412ce1bc6/ea62c093d532c8b3-bf/s2048x3072/c26d088a600c94520d07e5daf7a1e7fa73276c5b.pnj" </p>
+<p align="center"> <img width="700" src="https://64.media.tumblr.com/9dabb78e1d9d313c4846787ce4756b74/ea62c093d532c8b3-34/s2048x3072/48631ba7d6200df6afe6a84cc7b84bec0ec3d83f.pnj" </p>
 
 <p align="center">bleh</p>
 
