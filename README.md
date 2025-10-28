@@ -3,7 +3,7 @@
   <a href="">![](https://komarev.com/ghpvc/?username=eternalrecluse&color=5D5383&label=♱&base=8970)</a>
 
 </div>
-<p align="center"> <img width="700" src="https://64.media.tumblr.com/98978d01ae508be3b3275da81a6d68ee/ea62c093d532c8b3-e3/s2048x3072/54c4fa400b7b83d3b186e22255bf38e1c02ec62b.pnj" </p>
+<p align="center"> <img width="700" src="https://64.media.tumblr.com/6e9691e7996495f32e0ca5c869db52b0/ea62c093d532c8b3-9d/s2048x3072/b04b55bcc84bec4f2f421d2063903c3d2c3f816f.pnj" </p>
 
 ### <p align="center">bleh</p>
 
